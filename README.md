@@ -26,7 +26,8 @@ It highlights key performance indicators, product categories, outlet performance
 - `README.md` → Documentation  
 
 ## 📷 Dashboard Preview
-![Dashboard Screenshot](images/blinkit_dashboard.png)
+[Blinkit Dashboard](https://raw.githubusercontent.com/<your-username>/<your-repo>/main/images/blinkit_dashboard.png)
+
 
 ## 🚀 Insights
 - Most sales come from **Low Fat products**.  
